@@ -11,6 +11,9 @@ on your own device.
 
 Part of the Bitrise Continuous Integration, Delivery and Automations Stack.
 
+## Requirements
+
+* [Homebrew](http://brew.sh)
 
 ## Install and Setup
 
